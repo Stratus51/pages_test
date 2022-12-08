@@ -1,5 +1,5 @@
-{{ index.pdf_url }}
+1: {{ index.pdf_url }}
 
-{{ page.title }}
+2: {{ page.title }}
 
 plop
